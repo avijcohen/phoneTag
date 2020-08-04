@@ -10,7 +10,7 @@ map {
     width: auto\9; 
 }
 
-body {background-color: ghostwhite;
+body {background-color: gray;
     padding: 20px;
     margin: 10px;
     animation-name: background;
