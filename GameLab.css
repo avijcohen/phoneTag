@@ -8,7 +8,7 @@ h1 {
     padding: 20px;
     margin: 10px;
     animation-name: background;
-    animation-duration: 3s;
+    animation-duration: 1.5s;
     animation-iteration-count: infinite;
     animation-direction: alternate-reverse;
 }
