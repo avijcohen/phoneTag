@@ -14,10 +14,10 @@ body {background-color: ghostwhite;
     padding: 20px;
     margin: 10px;
     animation-name: background;
-    animation-duration: 8s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
     animation-direction: alternate-reverse;
 }
 
 @keyframes background { 
-    to {background-color: deepskyblue;}
+    to {background-color: blue;}
